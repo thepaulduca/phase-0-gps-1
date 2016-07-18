@@ -1,8 +1,8 @@
-** GPS IS FUN! **
+** GPS IS SO MUCH FUN! **
 * Coding with Paul *
 
 
-``` some sort of code block ```
+``` some sort of code  ```
 
 
 [google]
