@@ -1,3 +1,5 @@
+Paul Duca
+
 ### What Git concepts were you struggling with prior to the GPS session ###
 
 Prior to my first GPS i wasn't totally comfortable transfering local git files to github, as well as when exactly to merge
